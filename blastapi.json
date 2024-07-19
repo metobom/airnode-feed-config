@@ -336,131 +336,131 @@
     "signedApiUpdates": [
       {
         "templateIds": ["0x3950e18d5f4d122c1688ddc06519b05342ed86719c88b605e6a364c939c11ad2"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0x99dd11514cbab7d950f9b2ae58fcf9a7dea8be35474c5eb24240c149a075cb33"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0x65060923db8544c0eaecde07b165c93196b31537aaa7d3e9019342db0691bc7c"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0x28e420b2b81e4b9532dd4edcf31f76871ca7fe9606a91659fb07eaaccaecbd4c"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0xa435fd318da16cf5cb74285644f44d7528ea4cb493be645fd8bfaf26b7629447"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0xeec1ed9262325f2335c37118947be2d20ce598e86243a2b8ec4f7eed01b487b8"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0x2409a58369bed5a448e93fed81ddde1cad8e078197fb3df05061d33ced951dc2"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0xe1d235f70582729b8996576d76fdd02ce44e580a067ae8d2805d68d79af6c6e4"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0xe23ea915e8456256cb5b64d3c8b4a13de9c2e8065730822822af8d0fe7930006"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0x584caa21b532a1dbb3f0f88484ca1c5171e613cb6d011c03a1991313e975b687"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0x56b09c072d1e3da1ab627d49a6d0f3fedc309281f114a5156672fed32d9947be"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0x0ac5f94718312ddb78fdd4d7c4405befb233030faa87f995451aa091eb524548"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0xa5f6651b0da589d99a432900ebaede44f1667a4ebc598294913492b1f5147cc6"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0x3f58b7890897996c7e6c9f5d4c481731e3c965a55b6098575a1207e61dc5f044"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0xb39d3fef3beebce9777015e7416f0dfbd65260031c52d649fcbf680ce5fd530f"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0xfa0afd56fa8eb21ddb4e6d87b96a466d7545aaaaa3e3ec8e69003293f1fc4b94"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0x4779afb6384afad8151d9d9ada6f38cf63fe35f71c65ae9dba6a5bd6434b2222"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0x88c4c7a6ff3a27e1926ead087a6b88ebfdaffece1d3d8fcaa0dd4ebbeb05a3df"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0xf3704a931d8cc6e3ec1d25e2cf50b28f4d2f94a495614c8d7a5fc28005e185cf"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0x354f076fd79dc2e6c7c774617dc396d708e01a435d1daf092c55347c9d53ad37"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0xa5b80b66dc751d66d88d7e9befd9c1147e65de0e116a0e83ba4f89f21a2fc2ef"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0xa4a291749fe75f6ea275a155a80cb407310b04f0d9b8f958e777a1eb7e45e785"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0x08b48e6f16d27f3d8b0cbfecfeb81aa678bf66649546254434936263de2bb77c"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0x3c416ca1641505cd8b9c94a229b297158540cbc3eb864bcb04e0a53af69cec6a"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0x56ef300dfecdc95bbd45cbf04c983f106c54df0aaf3baaf1c120133046c800ab"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0x0fc31ad0ee7668bee3f5a2f441dfdd49cca5dcd5960388bdfb9b82a875e49809"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0x21b9d2f13b6e6bae1209eaa0db8b10e066b89ea98c7ad86a48d4dbace2b6e2ad"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0xd571f2ed4cd05c0557ea563479e24980b4447cc96c26b9ccbd656aa473e51eeb"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0x593f6d532464027e08e25635060d7ef5fbaac4befecfde2138cb2c1eb6284ed7"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0xb89e950d394b42374bbacb9bee41fe1263602c02a63bea0e9d60fccc31e8ec70"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0xd5a3965954cd104ae1e3b6f606803878faaaf2451ed8941e7f73d8f90b23da17"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       },
       {
         "templateIds": ["0xf0b617883793fcc63eb55b08d3093e9296c4dde0abae2d3e9e716b212368efe2"],
-        "fetchInterval": 60
+        "fetchInterval": 5
       }
     ]
   },
